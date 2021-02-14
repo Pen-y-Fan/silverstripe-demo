@@ -1,0 +1,9 @@
+/vendor/
+/silverstripe-cache/
+/.env
+/themes/simple/
+/resources/
+/public/resources/
+/node_modules/
+/public/_resources/
+composer.phar
